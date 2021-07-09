@@ -3,7 +3,7 @@
 # base ----------------------------------------
 matplotlib>=3.2.2
 numpy>=1.18.5
-opencv-python>=4.1.2
+opencv-python==4.1.2
 Pillow
 PyYAML>=5.3.1
 scipy>=1.4.1
@@ -29,6 +29,3 @@ pandas
 # pycocotools>=2.0  # COCO mAP
 # albumentations>=1.0.0
 thop  # FLOPs computation
-
-# custom ----------------------------------------
-opencv-python
